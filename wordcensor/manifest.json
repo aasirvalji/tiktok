@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Word Censor",
+  "version": "1.0",
+  "description": "Censors words containing 'employment' or 'job'",
+  "permissions": ["scripting", "activeTab"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Emplo***** censor"
+  }
+}

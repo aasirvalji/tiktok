@@ -1,0 +1,4 @@
+Script that when selected runs on the currently active tab. 
+Once enabled, this script has the ability to run on all URLs. This sets up the script as a background worker 
+that runs once your unemployed ah clicks on your extension button frfr. Once this script runs, you will be saved from 
+employment forever
