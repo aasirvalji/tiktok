@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Word Censor",
+  "name": "Emplo***** censor",
   "version": "1.0",
   "description": "Censors words containing 'employment' or 'job'",
   "permissions": ["scripting", "activeTab"],
